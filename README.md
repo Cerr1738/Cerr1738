@@ -18,7 +18,7 @@ I'm a passionate Frontend Developer with experience in HTML, Css, Tailwind CSS, 
 ### Homely Properties (https://homely-properties-wx9c.vercel.app/)
 
 
-Homely properties is a website used to purchase houses  properties or rented apartments directly from land owners . It is built with React.js, Tailwind.css and Node.js. This project demonstrates my ability to create user friendly websites. You can check out the repository [here](project_1_repository_link).
+Homely properties is a website used to purchase houses  properties or rented apartments directly from land owners . It is built with React.js, Tailwind.css and Node.js. This project demonstrates my ability to create user friendly websites. You can check out the repository [here](https://github.com/Cerr1738/Homely-properties-).
 
 ## Get in Touch 📬
 
