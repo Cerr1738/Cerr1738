@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Chisom! 👋
 
-<!--
-**Cerr1738/Cerr1738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Frontend Developer with experience in HTML, Css, Tailwind CSS, JavaScript, React.Js and Node.JS. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: Backend Technologies (Python, Sql)
+- 🔭 Working on: My personal portfolio website
+- 🌍 Languages: React.js , Next.js , English
+- 📫 How to reach me: ezechisom966@gmail.com 
+- ⚡ Fun fact: I love watching Kdramas
+
+
+
+## Featured Projects 💻
+
+### Homely Properties (https://homely-properties-wx9c.vercel.app/)
+
+
+Homely properties is a website used to purchase houses  properties or rented apartments directly from land owners . It is built with React.js, Tailwind.css and Node.js. This project demonstrates my ability to create user friendly websites. You can check out the repository [here](project_1_repository_link).
+
+## Get in Touch 📬
+
+
+- **[LinkedIn]**(https://www.linkedin.com/in/chisom-eze-a36309282/)
+
+
+
